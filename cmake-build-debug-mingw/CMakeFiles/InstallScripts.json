@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/hxm15/Desktop/work/ps2/cmake-build-debug-mingw/cmake_install.cmake",
+		"C:/Users/hxm15/Desktop/work/ps2/cmake-build-debug-mingw/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
